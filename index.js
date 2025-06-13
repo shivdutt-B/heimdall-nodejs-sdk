@@ -23,21 +23,3 @@ function registerPing(app, route = "/__ping__") {
 module.exports = {
   ping: registerPing
 };
-
-/*
-@Usage example:
-
-const express = require('express');
-const cors = require('cors');
-const heimdall = require('heimdall-nodejs-sdk');
-
-const app = express();
-
-const allowedOrigins = ['https://user-frontend.com', 'https://heimdall.com'];
-app.use(cors({ origin: allowedOrigins }));
-
-heimdall.ping(app); // No need to pass CORS options again here
-
-app.listen(3000, () => console.log("Server running on port 3000"));
-
-*/
