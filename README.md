@@ -2,8 +2,8 @@
 
 [![npm version](https://img.shields.io/npm/v/heimdall-nodejs-sdk.svg)](https://www.npmjs.com/package/heimdall-nodejs-sdk)
 [![license](https://img.shields.io/npm/l/heimdall-nodejs-sdk)](./LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/heimdall-nodejs-sdk)](https://github.com/yourusername/heimdall-nodejs-sdk/issues)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/heimdall-nodejs-sdk)](https://github.com/yourusername/heimdall-nodejs-sdk)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/heimdall-nodejs-sdk)](https://github.com/shivdutt-B/heimdall-nodejs-sdk/issues)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/heimdall-nodejs-sdk)](https://github.com/shivdutt-B/heimdall-nodejs-sdk)
 
 > Keep your backend servers **warm and monitored** with a single line of code.
 
